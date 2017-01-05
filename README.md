@@ -18,5 +18,5 @@ yarn install
 
 ## Start develop
 ```
-yarn watch
+yarn start
 ```
